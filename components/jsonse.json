@@ -1,0 +1,184 @@
+[
+    {
+        "techId": 2,
+        "techName": "Mike",
+        "rowCount": 2,
+        "rows": [
+            {
+                "rownumber": 1,
+                "rowJobs": [
+                    {
+                        "jobId": 10001,
+                        "jobStartHour": 1800,
+                        "jobEndHour": 2160
+                        , "jobTime": 120
+                    },
+                    {
+                        "jobId": 10333,
+                        "jobStartHour": 2161,
+                        "jobEndHour": 2500
+                        ,
+                        "jobTime": 30
+                    },
+                    {
+                        "jobId": 10004,
+                        "jobStartHour": 2600,
+                        "jobEndHour": 2700
+                        ,
+                        "jobTime": 130
+                    },
+                    {
+                        "jobId": 10002,
+                        "jobStartHour": 2800,
+                        "jobEndHour": 2900,
+                        "jobTime": 30
+                    }
+
+                ]
+            },
+            {
+                "rownumber": 2,
+                "rowJobs": [
+                    {
+                        "jobId": 10006,
+                        "jobStartHour": 2000,
+                        "jobEndHour": 2400,
+                        "jobTime": 30
+                    },
+                    {
+                        "jobId": 1006,
+                        "jobStartHour": 2200,
+                        "jobEndHour": 2300,
+                        "jobTime": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "techId": 21,
+        "techName": "John",
+        "rowCount": 1,
+        "rows": [
+            {
+                "rownumber": 1,
+                "rowJobs": [
+                    {
+                        "jobId": 10007,
+                        "jobStartHour": 2600,
+                        "jobEndHour": 2700,
+                        "jobTime": 30
+                    },
+                    {
+                        "jobId": 10003,
+                        "jobStartHour": 2650,
+                        "jobEndHour": 2701,
+                        "jobTime": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "techId": 5,
+        "techName": "Moby",
+        "rowCount": 1,
+        "rows": [
+            {
+                "rownumber": 1,
+                "rowJobs": [
+                    {
+                        "jobId": 10026,
+                        "jobStartHour": 400,
+                        "jobEndHour": 600,
+                        "jobTime": 30
+                    },
+                    {
+                        "jobId": 10027,
+                        "jobStartHour": 650,
+                        "jobEndHour": 900,
+                        "jobTime": 115
+                    },
+                    {
+                        "jobId": 10028,
+                        "jobStartHour": 800,
+                        "jobEndHour": 1000,
+                        "jobTime": 240
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "techId": 8,
+        "techName": "asd",
+        "rowCount": 1,
+        "rows": [
+            {
+                "rownumber": 1,
+                "rowJobs": [
+                    {
+                        "jobId": 1026,
+                        "jobStartHour": 400,
+                        "jobEndHour": 600,
+                        "jobTime": 130
+                    },
+                    {
+                        "jobId": 1027,
+                        "jobStartHour": 650,
+                        "jobEndHour": 900,
+                        "jobTime": 250
+                    },
+                    {
+                        "jobId": 1028,
+                        "jobStartHour": 800,
+                        "jobEndHour": 1000,
+                        "jobTime": 160
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "techId": 10,
+        "techName": "two",
+        "rowCount": 2,
+        "rows": [
+            {
+                "rownumber": 1,
+                "rowJobs": [
+                    {
+                        "jobId": 1,
+                        "jobStartHour": 400,
+                        "jobEndHour": 600,
+                        "jobTime": 120
+                    }
+                   
+                ]
+            },
+            {
+                "rownumber": 2,
+                "rowJobs": [
+                    {
+                        "jobId": 1010,
+                        "jobStartHour": 400,
+                        "jobEndHour": 600,
+                        "jobTime": 120
+                    },
+                    {
+                        "jobId": 187,
+                        "jobStartHour": 650,
+                        "jobEndHour": 900,
+                        "jobTime": 130
+                    },
+                    {
+                        "jobId": 11,
+                        "jobStartHour": 800,
+                        "jobEndHour": 1000,
+                        "jobTime": 120
+                    }
+                ]
+            }
+        ]
+    }
+]
